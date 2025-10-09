@@ -1,2 +1,6 @@
 a = input("what is your name:")
+b = input("What is your age:")
+c = input("How are you:")
 print(a)
+print(b)
+print(c)
