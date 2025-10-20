@@ -8,3 +8,4 @@ else:
 #print (down_payment) 
 print(f"Down payment: ${down_payment}")   
 
+
