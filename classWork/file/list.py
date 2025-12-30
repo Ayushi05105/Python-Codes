@@ -1,0 +1,11 @@
+l = [2,5,6,7]
+l.append(8)
+print(l)
+max_value = max(l)
+print(max_value)
+small = min(l)
+print(small)
+l1 = l.reverse()
+print(l1)
+l2 = l.remove(5)
+print(l2)
